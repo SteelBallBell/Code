@@ -4,6 +4,6 @@ This includes Python and probably a few other languages soon
 Courses im following:
 
 ## Python: https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&pp=iAQB 
-### 35/77
+### 37/77
 
 

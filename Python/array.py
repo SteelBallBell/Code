@@ -19,4 +19,4 @@ NewArray = array(vals.typecode, (a for a in vals))
 # This is how to copy an array to another array
 
 SquaredArray = array(vals.typecode, (a*a for a in vals))
-# this is how to square an array
+# this is how to square an array    
