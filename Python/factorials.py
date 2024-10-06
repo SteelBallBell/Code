@@ -11,9 +11,6 @@ def fact(x): # This is the function with (x) as a parameter
             f = f * i
 
         return f
-    
-
-
-
+            
 result = fact(x)
 print(result)
