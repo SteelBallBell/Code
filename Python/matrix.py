@@ -27,4 +27,3 @@ m2 = m1 + m1
 print(m2)
 
 # you also have m.max() and m.min() functions when dealing with matrices
-    
